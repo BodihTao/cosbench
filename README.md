@@ -1,7 +1,10 @@
-========================================
 
-support test s3 get range feature. download url: http://s3.yyclouds.com/public/cosbench.zip 
 
+support test s3 get range feature. 
+
+download url: http://s3.yyclouds.com/public/cosbench.zip 
+
+=========================================
 
 COSBench - Cloud Object Storage Benchmark
 =========================================
